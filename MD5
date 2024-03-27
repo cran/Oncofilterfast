@@ -1,0 +1,6 @@
+8f04413c23fad5c401d05ece0acfaf6d *DESCRIPTION
+d6e5a8e06899e53172cf52646909a63f *NAMESPACE
+ac6749ff64bad56c5d3f66ad828fda0d *R/calculator.R
+30ea484c1f4b9241ac6b2c368adc9a60 *inst/extdata/TCGA-LGG.htseq_fpkm.tsv
+7172f98dbd68c2158cb8c963ed4d70a7 *inst/extdata/TCGA-LGG.survival.tsv
+03910d7a8020b78b139f8664d4640798 *man/calculator.Rd

@@ -1,0 +1,16 @@
+Package: Oncofilterfast
+Type: Package
+Title: Aids in the Analysis of Genes Influencing Cancer Survival
+Version: 1.0.0
+Maintainer: Pheonix Chen <shuaiyuchen4@gmail.com>
+Authors@R: c(person("Pheonix", "Chen", role = c("aut", "cre"), email = "shuaiyuchen4@gmail.com", comment = c(ORCID = "0000-0003-0747-0681")))
+Description: Aids in the analysis of genes influencing cancer survival by including a principal function, calculator(), which calculates the P-value for each provided gene under the optimal cutoff in cancer survival studies. Grounded in methodologies from significant works, this package references Therneau's 'survival' package (Therneau, 2024; <https://CRAN.R-project.org/package=survival>) and the survival analysis extensions by Therneau and Grambsch (2000, ISBN 0-387-98784-3). It also integrates the 'survminer' package by Kassambara et al. (2021; <https://CRAN.R-project.org/package=survminer>), enhancing survival curve visualizations with 'ggplot2'.
+License: Apache License 2.0
+Encoding: UTF-8
+RoxygenNote: 7.3.1
+Depends: survival, survminer
+NeedsCompilation: no
+Packaged: 2024-03-27 04:20:49 UTC; 86157
+Author: Pheonix Chen [aut, cre] (<https://orcid.org/0000-0003-0747-0681>)
+Repository: CRAN
+Date/Publication: 2024-03-27 10:10:06 UTC
